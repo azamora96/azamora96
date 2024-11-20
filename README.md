@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Currently enrolled @ Western Colorado University... pursuing a Bachelor's in Computer Science with a Software Engineering Emphasis
+I'm currently enrolled @ Western Colorado University... pursuing a Bachelor's in Computer Science with a Software Engineering Emphasis
 
 I love planning and developing apps/programs from the ground up! Java, C++, and Kotlin are my favorite languages so far.
 
