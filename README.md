@@ -5,9 +5,17 @@ I'm currently enrolled @ Western Colorado University... pursuing a Bachelor's in
 I love planning and developing apps/programs from the ground up! Java, C++, and Kotlin are my favorite languages so far.
 
 Currently working on...
+- Java -- 2D RPG Adventure Game
+- Python Flask/JavaScript -- Inventory management website for a client(senior project)
+
+Recent works...
 - Java + JavaFX -- Point of Sale System
 - Rust -- Simple Black Jack Game
 - Kotlin -- Artist Gallery App
+
+- 📫 How to reach me: ...
+  - email: alec.zamora@western.edu
+  - linkedin: https://www.linkedin.com/in/alec-zamora
 
 <!--
 **azamora96/azamora96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
