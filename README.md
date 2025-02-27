@@ -6,7 +6,7 @@ I love planning and developing apps/programs from the ground up! Java, C++, and 
 
 Currently working on...
 - Java -- 2D RPG Adventure Game
-- Python Flask/JavaScript -- Inventory management website for a client(senior project)
+- Python Flask/HTML -- Inventory management website for a client(senior project)
 
 Recent works...
 - Java + JavaFX -- Point of Sale System
